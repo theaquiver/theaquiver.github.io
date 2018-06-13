@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ce3c3ba28eec616825a1318a6a1ee8a4.js"
+  "/precache-manifest.1edfda6291a723511a185e33ccb2ec8e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "btc"});
